@@ -6,3 +6,12 @@ This is a Node.js and Express application that fetches random secrets from the S
 - Display secret and username
 - Uses Express and Axios
 - Uses EJS templating
+
+## Tech Stack
+
+- Node.js
+- Express.js
+- Axios
+- EJS
+- CSS
+- 

@@ -5,7 +5,7 @@ import dotenv from "dotenv";
 dotenv.config();
 const app=express();
 const port=3000;
-const token="7feec297-af9e-4d12-a634-a84a78026ab7"
+
 const config={
     headers:{Authorization: `Bearer ${token}`}
 }

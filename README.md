@@ -31,3 +31,6 @@ node index.js
 
 5. Open browser
 http://localhost:3000
+
+This project was built as part of my learning phase while exploring Node.js, Express, REST APIs, and EJS templating.
+It is not intended as a production-ready application, but as a hands-on implementation to strengthen backend fundamentals.
